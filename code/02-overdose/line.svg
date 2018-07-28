@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (http://matplotlib.org/) -->
+<svg height="432pt" version="1.1" viewBox="0 0 792 432" width="792pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 432 
+L 792 432 
+L 792 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 99 384.48 
+L 712.8 384.48 
+L 712.8 51.84 
+L 99 51.84 
+z
+" style="fill:#eee8d5;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <!-- 2006 -->
+      <defs>
+       <path d="M 19 49.203125 
+L 18.796875 54 
+C 18.796875 58.09375 19.09375 66.203125 24.796875 66.203125 
+C 29.59375 66.203125 30.796875 60.796875 30.796875 56.90625 
+C 30.796875 48.59375 25 38.40625 21.09375 31.203125 
+L 4.09375 0 
+L 43.703125 0 
+L 43.703125 13 
+L 26.203125 13 
+L 38.796875 36.90625 
+C 42.296875 43.59375 45 49.703125 45 57.40625 
+C 45 70.40625 37.203125 76.703125 24.703125 76.703125 
+C 9 76.703125 5 67.296875 5 53.296875 
+L 5.203125 49.203125 
+z
+" id="FuturaStd-CondensedBold-32"/>
+       <path d="M 24.5 76.59375 
+C 6.40625 76.59375 3.296875 51 3.296875 37.703125 
+C 3.296875 24.40625 6.40625 -1.203125 24.5 -1.203125 
+C 42.59375 -1.203125 45.703125 24.40625 45.703125 37.703125 
+C 45.703125 51 42.59375 76.59375 24.5 76.59375 
+z
+M 24.5 63 
+C 31.90625 63 31.203125 42.59375 31.203125 37.703125 
+C 31.203125 32.796875 31.90625 12.40625 24.5 12.40625 
+C 17.09375 12.40625 17.796875 32.796875 17.796875 37.703125 
+C 17.796875 42.59375 17.09375 63 24.5 63 
+z
+" id="FuturaStd-CondensedBold-30"/>
+       <path d="M 20.59375 75.40625 
+L 14.40625 62.59375 
+C 8.703125 50.5 3.703125 39 3.703125 25.296875 
+C 3.703125 12.09375 9.296875 -1.203125 24.296875 -1.203125 
+C 40.09375 -1.203125 45.40625 13 45.40625 26.5 
+C 45.40625 35.59375 41.59375 49.90625 30.203125 49.90625 
+C 26.203125 49.90625 23.59375 48.296875 20.796875 45.796875 
+L 20.59375 46 
+L 35 75.40625 
+z
+M 24.90625 36.703125 
+C 30 36.703125 30.90625 28.59375 30.90625 24.90625 
+C 30.90625 21.09375 30.203125 11.5 24.5 11.5 
+C 19.5 11.5 18.203125 20.09375 18.203125 23.703125 
+C 18.203125 27.5 19.296875 36.703125 24.90625 36.703125 
+z
+" id="FuturaStd-CondensedBold-36"/>
+      </defs>
+      <g style="fill:#657b83;" transform="translate(113.18 399.278437)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="97.999969" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="146.999954" xlink:href="#FuturaStd-CondensedBold-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <!-- 2007 -->
+      <defs>
+       <path d="M 7.296875 75.40625 
+L 7.296875 62.40625 
+L 27.59375 62.40625 
+L 4.09375 0 
+L 19.59375 0 
+L 48 75.40625 
+z
+" id="FuturaStd-CondensedBold-37"/>
+      </defs>
+      <g style="fill:#657b83;" transform="translate(168.98 399.278437)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="97.999969" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="146.999954" xlink:href="#FuturaStd-CondensedBold-37"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <!-- 2008 -->
+      <defs>
+       <path d="M 16 40.59375 
+C 6.59375 37.5 2.90625 30.296875 2.90625 20.59375 
+C 2.90625 8.203125 12 -1.203125 24.59375 -1.203125 
+C 37.203125 -1.203125 46.203125 8.203125 46.203125 20.59375 
+C 46.203125 30.09375 42.5 37.59375 33.09375 40.59375 
+L 33.09375 40.703125 
+C 40 43.203125 43.40625 49.59375 43.40625 56.703125 
+C 43.40625 67.796875 36 76.59375 24.59375 76.59375 
+C 13.09375 76.59375 5.703125 67.796875 5.703125 56.703125 
+C 5.703125 49.59375 9.203125 43.09375 16 40.796875 
+z
+M 20.203125 57 
+C 20.203125 59.703125 20.703125 64.90625 24.296875 64.90625 
+C 28.40625 64.90625 28.90625 59.59375 28.90625 56.90625 
+C 28.90625 54.09375 28.90625 48.40625 24.296875 48.40625 
+C 20.59375 48.40625 20.203125 54.09375 20.203125 57 
+z
+M 24.40625 33.40625 
+C 29.296875 33.40625 30.90625 26.203125 30.90625 22.5 
+C 30.90625 18.796875 29.59375 11.796875 24.5 11.796875 
+C 19.296875 11.796875 18.203125 18.59375 18.203125 22.5 
+C 18.203125 26.40625 19.296875 33.40625 24.40625 33.40625 
+z
+" id="FuturaStd-CondensedBold-38"/>
+      </defs>
+      <g style="fill:#657b83;" transform="translate(224.78 399.278437)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="97.999969" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="146.999954" xlink:href="#FuturaStd-CondensedBold-38"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <!-- 2009 -->
+      <defs>
+       <path d="M 28.5 0 
+L 34.703125 12.90625 
+C 40.40625 24.90625 45.40625 36.5 45.40625 50.09375 
+C 45.40625 63.40625 39.90625 76.59375 24.796875 76.59375 
+C 9 76.59375 3.703125 62.5 3.703125 49 
+C 3.703125 40 7.5 25.5 18.90625 25.5 
+C 22.90625 25.5 25.5 27.203125 28.296875 29.703125 
+L 28.5 29.5 
+L 14.09375 0 
+z
+M 24.59375 63.703125 
+C 29.703125 63.796875 30.90625 55.40625 30.90625 51.796875 
+C 30.90625 48 29.90625 38.703125 24.203125 38.703125 
+C 19.09375 38.703125 18.203125 46.90625 18.203125 50.5 
+C 18.203125 54.296875 18.90625 63.703125 24.59375 63.703125 
+z
+" id="FuturaStd-CondensedBold-39"/>
+      </defs>
+      <g style="fill:#657b83;" transform="translate(280.58 399.278437)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="97.999969" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="146.999954" xlink:href="#FuturaStd-CondensedBold-39"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <!-- 2010 -->
+      <defs>
+       <path d="M 11 75.40625 
+L 11 62.40625 
+L 18.203125 62.40625 
+L 18.203125 0 
+L 32.703125 0 
+L 32.703125 75.40625 
+z
+" id="FuturaStd-CondensedBold-31"/>
+      </defs>
+      <g style="fill:#657b83;" transform="translate(336.38 399.278437)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="97.999969" xlink:href="#FuturaStd-CondensedBold-31"/>
+       <use x="146.999954" xlink:href="#FuturaStd-CondensedBold-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <!-- 2011 -->
+      <g style="fill:#657b83;" transform="translate(392.18 399.278437)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="97.999969" xlink:href="#FuturaStd-CondensedBold-31"/>
+       <use x="146.999954" xlink:href="#FuturaStd-CondensedBold-31"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7"/>
+     <g id="text_7">
+      <!-- 2012 -->
+      <g style="fill:#657b83;" transform="translate(447.98 399.278437)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="97.999969" xlink:href="#FuturaStd-CondensedBold-31"/>
+       <use x="146.999954" xlink:href="#FuturaStd-CondensedBold-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8"/>
+     <g id="text_8">
+      <!-- 2013 -->
+      <defs>
+       <path d="M 17.5 19.796875 
+L 3.5 19.796875 
+C 2.90625 7.203125 10.59375 -1.203125 23.296875 -1.203125 
+C 37.09375 -1.203125 45.59375 7.203125 45.59375 21 
+C 45.59375 29.09375 42.40625 36.796875 34 38.90625 
+L 34 39.09375 
+C 41.296875 42 43.296875 49.703125 43.296875 56.90625 
+C 43.296875 68.796875 36.40625 76.59375 24.203125 76.59375 
+C 10.296875 76.59375 6 66.40625 6.59375 54.296875 
+L 19.5 54.296875 
+L 19.5 55.796875 
+C 19.5 59.09375 20.203125 63.59375 24.5 63.59375 
+C 28.90625 63.59375 29.59375 59.296875 29.59375 55.90625 
+C 29.59375 47.59375 26.296875 46 18.203125 46 
+L 18.203125 33 
+C 26.59375 33.296875 29.5 30.90625 29.5 22.5 
+C 29.5 18 29.09375 11.796875 23 11.796875 
+C 19 11.796875 17.40625 15.203125 17.40625 17.703125 
+z
+" id="FuturaStd-CondensedBold-33"/>
+      </defs>
+      <g style="fill:#657b83;" transform="translate(503.78 399.278437)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="97.999969" xlink:href="#FuturaStd-CondensedBold-31"/>
+       <use x="146.999954" xlink:href="#FuturaStd-CondensedBold-33"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9"/>
+     <g id="text_9">
+      <!-- 2014 -->
+      <defs>
+       <path d="M 22.796875 75.40625 
+L 2.796875 29.40625 
+L 2.796875 18.203125 
+L 24.703125 18.203125 
+L 24.703125 0 
+L 39.203125 0 
+L 39.203125 18.203125 
+L 45.296875 18.203125 
+L 45.296875 29.59375 
+L 39.203125 29.59375 
+L 39.203125 75.40625 
+z
+M 24.703125 29.59375 
+L 13.296875 29.59375 
+L 24.5 58.203125 
+L 24.703125 58.203125 
+z
+" id="FuturaStd-CondensedBold-34"/>
+      </defs>
+      <g style="fill:#657b83;" transform="translate(559.58 399.278437)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="97.999969" xlink:href="#FuturaStd-CondensedBold-31"/>
+       <use x="146.999954" xlink:href="#FuturaStd-CondensedBold-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10"/>
+     <g id="text_10">
+      <!-- 2015 -->
+      <defs>
+       <path d="M 7.40625 38.296875 
+C 9.203125 38.59375 11.203125 38.90625 13.09375 38.90625 
+C 21.90625 38.90625 28.296875 34.90625 28.296875 25.5 
+C 28.296875 18.40625 24.5 11.796875 16.59375 11.796875 
+C 13.203125 11.796875 10 13.203125 7.40625 15.296875 
+L 4.90625 2.203125 
+C 9.59375 -0.09375 14.09375 -1.203125 19.40625 -1.203125 
+C 36.09375 -1.203125 44.203125 9.203125 44.203125 25.296875 
+C 44.203125 40.09375 37 49.40625 21.703125 50.203125 
+L 23.703125 62.40625 
+L 42.09375 62.40625 
+L 42.09375 75.40625 
+L 13.296875 75.40625 
+z
+" id="FuturaStd-CondensedBold-35"/>
+      </defs>
+      <g style="fill:#657b83;" transform="translate(615.38 399.278437)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="97.999969" xlink:href="#FuturaStd-CondensedBold-31"/>
+       <use x="146.999954" xlink:href="#FuturaStd-CondensedBold-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11"/>
+     <g id="text_11">
+      <!-- 2016 -->
+      <g style="fill:#657b83;" transform="translate(671.18 399.278437)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+       <use x="97.999969" xlink:href="#FuturaStd-CondensedBold-31"/>
+       <use x="146.999954" xlink:href="#FuturaStd-CondensedBold-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_12">
+     <!-- year -->
+     <defs>
+      <path d="M 1.5 50.5 
+L 16.203125 1 
+L 8.09375 -24.90625 
+L 22 -24.90625 
+L 43.703125 50.5 
+L 29.5 50.5 
+L 22.90625 21.703125 
+L 22.703125 21.703125 
+L 21 30.09375 
+L 15.703125 50.5 
+z
+" id="FuturaStd-CondensedBold-79"/>
+      <path d="M 26.59375 30.203125 
+L 16.296875 30.203125 
+L 16.296875 31.703125 
+C 16.296875 34.90625 17.203125 40.703125 21.5 40.703125 
+C 25.90625 40.703125 26.59375 34.703125 26.59375 31.40625 
+z
+M 38.796875 27.296875 
+C 39.59375 43.203125 31 51.5 21.703125 51.5 
+C 7 51.5 2.59375 36.296875 2.59375 24.203125 
+C 2.59375 11.703125 7.703125 -1 22 -1 
+C 27.203125 -1 30.90625 0.796875 33.40625 3.796875 
+C 36 6.796875 37.40625 11 38 15.59375 
+L 26 15.59375 
+C 26 12.59375 25.09375 9.796875 21.5 9.796875 
+C 16.09375 9.796875 16.296875 17.796875 16.203125 21.5 
+L 38.5 21.5 
+z
+" id="FuturaStd-CondensedBold-65"/>
+      <path d="M 21.90625 11.90625 
+C 16.90625 11.90625 16.703125 22.296875 16.703125 25.5 
+C 16.703125 28.40625 17 39 21.703125 39 
+C 26.5 39 26.796875 28.296875 26.796875 25.5 
+C 26.796875 22.796875 26.40625 11.90625 21.90625 11.90625 
+z
+M 25.796875 0 
+L 39.90625 0 
+L 39.90625 50.5 
+L 25.796875 50.5 
+L 25.796875 44.296875 
+L 25.59375 44.296875 
+C 24 48.40625 20.796875 51.5 16.09375 51.5 
+C 4.296875 51.5 2.59375 34 2.59375 25.296875 
+C 2.59375 17.203125 4.90625 -1 16.296875 -1 
+C 20.796875 -1 23.703125 1.90625 25.59375 5.703125 
+L 25.796875 5.703125 
+z
+" id="FuturaStd-CondensedBold-61"/>
+      <path d="M 3.5 50.5 
+L 3.5 0 
+L 17.59375 0 
+L 17.59375 25.203125 
+C 17.59375 32.703125 17.703125 38.90625 27.09375 38.90625 
+C 27.90625 38.90625 28.59375 38.796875 29.296875 38.703125 
+L 29.296875 52.40625 
+C 23.796875 51.90625 20.40625 48.796875 17.796875 44.40625 
+L 17.59375 44.40625 
+L 17.59375 50.5 
+z
+" id="FuturaStd-CondensedBold-72"/>
+     </defs>
+     <g style="fill:#657b83;" transform="translate(396.215625 416.449687)scale(0.12 -0.12)">
+      <use xlink:href="#FuturaStd-CondensedBold-79"/>
+      <use x="45.199997" xlink:href="#FuturaStd-CondensedBold-65"/>
+      <use x="86.599991" xlink:href="#FuturaStd-CondensedBold-61"/>
+      <use x="129.899979" xlink:href="#FuturaStd-CondensedBold-72"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_12">
+      <path clip-path="url(#pd4595e83fb)" d="M 99 384.48 
+L 712.8 384.48 
+" style="fill:none;stroke:#ffffff;stroke-dasharray:1,1.65;stroke-dashoffset:0;"/>
+     </g>
+     <g id="line2d_13"/>
+     <g id="text_13">
+      <!-- 0 -->
+      <g style="fill:#657b83;" transform="translate(88.64 390.129219)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14">
+      <path clip-path="url(#pd4595e83fb)" d="M 99 335.952208 
+L 712.8 335.952208 
+" style="fill:none;stroke:#ffffff;stroke-dasharray:1,1.65;stroke-dashoffset:0;"/>
+     </g>
+     <g id="line2d_15"/>
+     <g id="text_14">
+      <!-- 10 -->
+      <g style="fill:#657b83;" transform="translate(81.78 341.601427)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-31"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_16">
+      <path clip-path="url(#pd4595e83fb)" d="M 99 287.424416 
+L 712.8 287.424416 
+" style="fill:none;stroke:#ffffff;stroke-dasharray:1,1.65;stroke-dashoffset:0;"/>
+     </g>
+     <g id="line2d_17"/>
+     <g id="text_15">
+      <!-- 20 -->
+      <g style="fill:#657b83;" transform="translate(81.78 293.073634)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-32"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_18">
+      <path clip-path="url(#pd4595e83fb)" d="M 99 238.896623 
+L 712.8 238.896623 
+" style="fill:none;stroke:#ffffff;stroke-dasharray:1,1.65;stroke-dashoffset:0;"/>
+     </g>
+     <g id="line2d_19"/>
+     <g id="text_16">
+      <!-- 30 -->
+      <g style="fill:#657b83;" transform="translate(81.78 244.545842)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-33"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_20">
+      <path clip-path="url(#pd4595e83fb)" d="M 99 190.368831 
+L 712.8 190.368831 
+" style="fill:none;stroke:#ffffff;stroke-dasharray:1,1.65;stroke-dashoffset:0;"/>
+     </g>
+     <g id="line2d_21"/>
+     <g id="text_17">
+      <!-- 40 -->
+      <g style="fill:#657b83;" transform="translate(81.78 196.01805)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-34"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_22">
+      <path clip-path="url(#pd4595e83fb)" d="M 99 141.841039 
+L 712.8 141.841039 
+" style="fill:none;stroke:#ffffff;stroke-dasharray:1,1.65;stroke-dashoffset:0;"/>
+     </g>
+     <g id="line2d_23"/>
+     <g id="text_18">
+      <!-- 50 -->
+      <g style="fill:#657b83;" transform="translate(81.78 147.490258)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-35"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_24">
+      <path clip-path="url(#pd4595e83fb)" d="M 99 93.313247 
+L 712.8 93.313247 
+" style="fill:none;stroke:#ffffff;stroke-dasharray:1,1.65;stroke-dashoffset:0;"/>
+     </g>
+     <g id="line2d_25"/>
+     <g id="text_19">
+      <!-- 60 -->
+      <g style="fill:#657b83;" transform="translate(81.78 98.962466)scale(0.14 -0.14)">
+       <use xlink:href="#FuturaStd-CondensedBold-36"/>
+       <use x="48.999985" xlink:href="#FuturaStd-CondensedBold-30"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_26">
+    <path clip-path="url(#pd4595e83fb)" d="M 126.9 307.683295 
+L 182.7 301.892075 
+L 238.5 297.681966 
+L 294.3 321.390783 
+L 350.1 295.118434 
+L 405.9 284.902226 
+L 461.7 276.585572 
+L 517.5 270.357849 
+L 573.3 251.595007 
+L 629.1 225.609646 
+L 684.9 179.469968 
+" style="fill:none;stroke:#268bd2;stroke-width:2;"/>
+   </g>
+   <g id="line2d_27">
+    <path clip-path="url(#pd4595e83fb)" d="M 126.9 235.908025 
+L 182.7 252.756337 
+L 238.5 194.29006 
+L 294.3 329.206305 
+L 350.1 186.383636 
+L 405.9 125.022422 
+L 461.7 184.390781 
+L 517.5 173.092523 
+L 573.3 146.094228 
+L 629.1 90.389292 
+L 684.9 65.047919 
+" style="fill:none;stroke:#d26c3d;stroke-width:2;"/>
+   </g>
+   <g id="line2d_28">
+    <path clip-path="url(#pd4595e83fb)" d="M 126.9 265.282789 
+L 182.7 259.726724 
+L 238.5 292.125704 
+L 294.3 279.016579 
+L 350.1 266.369701 
+L 405.9 280.194573 
+L 461.7 291.369857 
+L 517.5 271.570383 
+L 573.3 288.584279 
+L 629.1 293.599054 
+L 684.9 286.021968 
+" style="fill:none;stroke:#dbd7ad;stroke-width:2;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 99 384.48 
+L 99 51.84 
+" style="fill:none;stroke:#eee8d5;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 712.8 384.48 
+L 712.8 51.84 
+" style="fill:none;stroke:#eee8d5;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 99 384.48 
+L 712.8 384.48 
+" style="fill:none;stroke:#eee8d5;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 99 51.84 
+L 712.8 51.84 
+" style="fill:none;stroke:#eee8d5;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="legend_1">
+    <g id="patch_7">
+     <path d="M 106 106.522812 
+L 192.6 106.522812 
+Q 194.6 106.522812 194.6 104.522812 
+L 194.6 58.84 
+Q 194.6 56.84 192.6 56.84 
+L 106 56.84 
+Q 104 56.84 104 58.84 
+L 104 104.522812 
+Q 104 106.522812 106 106.522812 
+z
+" style="fill:#eee8d5;opacity:0.8;stroke:#cccccc;stroke-linejoin:miter;"/>
+    </g>
+    <g id="line2d_29">
+     <path d="M 108 65.410312 
+L 128 65.410312 
+" style="fill:none;stroke:#268bd2;stroke-width:2;"/>
+    </g>
+    <g id="line2d_30"/>
+    <g id="text_20">
+     <!-- deathsper100k -->
+     <defs>
+      <path d="M 25.796875 0 
+L 39.90625 0 
+L 39.90625 80.703125 
+L 25.796875 80.703125 
+L 25.796875 44.296875 
+L 25.59375 44.296875 
+C 24 48.40625 20.796875 51.5 16.09375 51.5 
+C 4.296875 51.5 2.59375 34 2.59375 25.296875 
+C 2.59375 17.203125 4.90625 -1 16.296875 -1 
+C 20.796875 -1 23.703125 1.90625 25.59375 5.703125 
+L 25.796875 5.703125 
+z
+M 21.90625 11.90625 
+C 16.90625 11.90625 16.703125 22.296875 16.703125 25.5 
+C 16.703125 28.40625 17 39 21.703125 39 
+C 26.5 39 26.796875 28.296875 26.796875 25.5 
+C 26.796875 22.796875 26.40625 11.90625 21.90625 11.90625 
+z
+" id="FuturaStd-CondensedBold-64"/>
+      <path d="M 7.90625 64.5 
+L 7.90625 50.5 
+L 3 50.5 
+L 3 38.90625 
+L 7.90625 38.90625 
+L 7.90625 0 
+L 22 0 
+L 22 38.90625 
+L 27.796875 38.90625 
+L 27.796875 50.5 
+L 22 50.5 
+L 22 64.5 
+z
+" id="FuturaStd-CondensedBold-74"/>
+      <path d="M 3.5 80.703125 
+L 3.5 0 
+L 17.59375 0 
+L 17.59375 31.5 
+C 17.59375 34 18.203125 37.296875 21.40625 37.296875 
+C 25.90625 37.296875 24.90625 30.296875 24.90625 27.703125 
+L 24.90625 0 
+L 39 0 
+L 39 32.59375 
+C 39 39.90625 39.90625 51.5 29.5 51.5 
+C 24 51.5 19.703125 47.5 17.796875 42.703125 
+L 17.59375 42.703125 
+L 17.59375 80.703125 
+z
+" id="FuturaStd-CondensedBold-68"/>
+      <path d="M 34.59375 47.203125 
+C 30.5 50.203125 26.203125 51.5 21.09375 51.5 
+C 12.203125 51.5 4.203125 46.296875 4.203125 36.703125 
+C 4.203125 20.703125 20.5 22.40625 20.296875 15.703125 
+C 20.296875 13.09375 18.40625 11.5 16.203125 11.5 
+C 13.40625 11.5 11.296875 13 9.203125 14.796875 
+L 3 4.796875 
+C 7.203125 1.296875 12.796875 -1 18.203125 -1 
+C 28.59375 -1 34.40625 6.703125 34.40625 16.703125 
+C 34.40625 31.796875 18.5 30.59375 18.296875 36.5 
+C 18.296875 38.703125 19.59375 40.203125 22.09375 40.203125 
+C 25 40.203125 26.90625 38.703125 28.90625 36.90625 
+z
+" id="FuturaStd-CondensedBold-73"/>
+      <path d="M 21.5 11.90625 
+C 16.90625 11.90625 16.59375 22.796875 16.59375 25.5 
+C 16.59375 28.296875 16.796875 39 21.59375 39 
+C 26.203125 39 26.59375 28.40625 26.59375 25.5 
+C 26.59375 22.296875 26.5 11.90625 21.5 11.90625 
+z
+M 17.59375 50.5 
+L 3.5 50.5 
+L 3.5 -24.90625 
+L 17.59375 -24.90625 
+L 17.59375 5.703125 
+L 17.796875 5.703125 
+C 19.59375 1.90625 22.5 -1 27.09375 -1 
+C 38.59375 -1 40.703125 17.203125 40.703125 25.296875 
+C 40.703125 34 39.09375 51.5 27.203125 51.5 
+C 22.59375 51.5 19.40625 48.40625 17.796875 44.296875 
+L 17.59375 44.296875 
+z
+" id="FuturaStd-CondensedBold-70"/>
+      <path d="M 3.5 80.703125 
+L 3.5 0 
+L 17.59375 0 
+L 17.59375 23.40625 
+L 17.796875 23.40625 
+L 27.796875 0 
+L 43.296875 0 
+L 29.40625 29.90625 
+L 40.796875 50.5 
+L 25.5 50.5 
+L 17.796875 32.796875 
+L 17.59375 32.796875 
+L 17.59375 80.703125 
+z
+" id="FuturaStd-CondensedBold-6b"/>
+     </defs>
+     <g transform="translate(136 68.910312)scale(0.1 -0.1)">
+      <use xlink:href="#FuturaStd-CondensedBold-64"/>
+      <use x="43.299988" xlink:href="#FuturaStd-CondensedBold-65"/>
+      <use x="84.699982" xlink:href="#FuturaStd-CondensedBold-61"/>
+      <use x="127.999969" xlink:href="#FuturaStd-CondensedBold-74"/>
+      <use x="158.799957" xlink:href="#FuturaStd-CondensedBold-68"/>
+      <use x="201.199951" xlink:href="#FuturaStd-CondensedBold-73"/>
+      <use x="238.799942" xlink:href="#FuturaStd-CondensedBold-70"/>
+      <use x="282.09993" xlink:href="#FuturaStd-CondensedBold-65"/>
+      <use x="323.499924" xlink:href="#FuturaStd-CondensedBold-72"/>
+      <use x="354.999908" xlink:href="#FuturaStd-CondensedBold-31"/>
+      <use x="403.999893" xlink:href="#FuturaStd-CondensedBold-30"/>
+      <use x="452.999878" xlink:href="#FuturaStd-CondensedBold-30"/>
+      <use x="501.999863" xlink:href="#FuturaStd-CondensedBold-6b"/>
+     </g>
+    </g>
+    <g id="line2d_31">
+     <path d="M 108 80.97125 
+L 128 80.97125 
+" style="fill:none;stroke:#d26c3d;stroke-width:2;"/>
+    </g>
+    <g id="line2d_32"/>
+    <g id="text_21">
+     <!-- deathsper100k -->
+     <g transform="translate(136 84.47125)scale(0.1 -0.1)">
+      <use xlink:href="#FuturaStd-CondensedBold-64"/>
+      <use x="43.299988" xlink:href="#FuturaStd-CondensedBold-65"/>
+      <use x="84.699982" xlink:href="#FuturaStd-CondensedBold-61"/>
+      <use x="127.999969" xlink:href="#FuturaStd-CondensedBold-74"/>
+      <use x="158.799957" xlink:href="#FuturaStd-CondensedBold-68"/>
+      <use x="201.199951" xlink:href="#FuturaStd-CondensedBold-73"/>
+      <use x="238.799942" xlink:href="#FuturaStd-CondensedBold-70"/>
+      <use x="282.09993" xlink:href="#FuturaStd-CondensedBold-65"/>
+      <use x="323.499924" xlink:href="#FuturaStd-CondensedBold-72"/>
+      <use x="354.999908" xlink:href="#FuturaStd-CondensedBold-31"/>
+      <use x="403.999893" xlink:href="#FuturaStd-CondensedBold-30"/>
+      <use x="452.999878" xlink:href="#FuturaStd-CondensedBold-30"/>
+      <use x="501.999863" xlink:href="#FuturaStd-CondensedBold-6b"/>
+     </g>
+    </g>
+    <g id="line2d_33">
+     <path d="M 108 96.532187 
+L 128 96.532187 
+" style="fill:none;stroke:#dbd7ad;stroke-width:2;"/>
+    </g>
+    <g id="line2d_34"/>
+    <g id="text_22">
+     <!-- deathsper100k -->
+     <g transform="translate(136 100.032187)scale(0.1 -0.1)">
+      <use xlink:href="#FuturaStd-CondensedBold-64"/>
+      <use x="43.299988" xlink:href="#FuturaStd-CondensedBold-65"/>
+      <use x="84.699982" xlink:href="#FuturaStd-CondensedBold-61"/>
+      <use x="127.999969" xlink:href="#FuturaStd-CondensedBold-74"/>
+      <use x="158.799957" xlink:href="#FuturaStd-CondensedBold-68"/>
+      <use x="201.199951" xlink:href="#FuturaStd-CondensedBold-73"/>
+      <use x="238.799942" xlink:href="#FuturaStd-CondensedBold-70"/>
+      <use x="282.09993" xlink:href="#FuturaStd-CondensedBold-65"/>
+      <use x="323.499924" xlink:href="#FuturaStd-CondensedBold-72"/>
+      <use x="354.999908" xlink:href="#FuturaStd-CondensedBold-31"/>
+      <use x="403.999893" xlink:href="#FuturaStd-CondensedBold-30"/>
+      <use x="452.999878" xlink:href="#FuturaStd-CondensedBold-30"/>
+      <use x="501.999863" xlink:href="#FuturaStd-CondensedBold-6b"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd4595e83fb">
+   <rect height="332.64" width="613.8" x="99" y="51.84"/>
+  </clipPath>
+ </defs>
+</svg>

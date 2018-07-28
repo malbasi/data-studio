@@ -12,8 +12,8 @@
 	.st6{clip-path:url(#SVGID_10_);fill:none;stroke:#FFFFFF;stroke-linejoin:round;stroke-dasharray:1,1.65;}
 	.st7{clip-path:url(#SVGID_12_);fill:none;stroke:#FFFFFF;stroke-linejoin:round;stroke-dasharray:1,1.65;}
 	.st8{clip-path:url(#SVGID_14_);fill:none;stroke:#DBD7AD;stroke-width:2;stroke-linejoin:round;}
-	.st9{clip-path:url(#SVGID_16_);fill:none;stroke:#DBD7AD;stroke-width:2;stroke-linejoin:round;}
-	.st10{clip-path:url(#SVGID_18_);fill:none;stroke:#D26C3D;stroke-width:2;stroke-linejoin:round;}
+	.st9{clip-path:url(#SVGID_16_);fill:none;stroke:#D26C3D;stroke-width:2;stroke-linejoin:round;}
+	.st10{clip-path:url(#SVGID_18_);fill:none;stroke:#DBD7AD;stroke-width:2;stroke-linejoin:round;}
 	.st11{fill:none;stroke:#EEE8D5;stroke-width:0.8;stroke-linecap:square;}
 	.st12{fill:none;}
 	.st13{font-family:'Futura-CondensedMedium';}
@@ -270,5 +270,5 @@
 <rect x="15.1" y="193.1" class="st12" width="64.8" height="41.8"/>
 <text transform="matrix(1 0 0 1 28.3667 203.0854)"><tspan x="0" y="0" class="st1 st13 st14">Overdoses</tspan><tspan x="1.9" y="14.4" class="st1 st13 st14">per 100k</tspan><tspan x="-1.2" y="28.8" class="st1 st13 st14">population</tspan></text>
 <rect x="333.6" y="59.6" class="st12" width="150.3" height="44.1"/>
-<text transform="matrix(1 0 0 1 343.5195 69.5249)"><tspan x="0" y="0" class="st15 st16">Between 2006 and 2016</tspan><tspan x="-6.2" y="16.8" class="st17 st16">1,144</tspan><tspan x="24.6" y="16.8" class="st15 st16"> died from overdoses</tspan></text>
+<text transform="matrix(1 0 0 1 343.5195 69.5249)"><tspan x="0" y="0" class="st15 st16">Between 2006 and 2016</tspan><tspan x="-6.2" y="16.8" class="st17 st16">3,168</tspan><tspan x="24.6" y="16.8" class="st15 st16"> died from overdoses</tspan></text>
 </svg>
