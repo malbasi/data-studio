@@ -1,0 +1,41 @@
+# Pitch
+
+## Summary
+
+Whopayswriters.com collects crowd-sourced information about payments to freelance journalists. The website contains information for about 1200 publications dating back as far as 2012. Each data point records the publication, amount paid per word or per piece, length of the piece and amount of time it took to get paid. As newsrooms continue to shrink and rampant layoffs plague the industry more and more journalists are forced in to freelance work. How well will they get paid in these new positions? How does that compare to an average staff salary? And where are the best places to pitch?
+
+
+## Details
+
+**Possible headline(s):** 
+
+Let's visualize wage stagnation in journalism
+
+**Data set(s):** 
+
+Self-compiled from a scrape of WhoPaysWriters.com
+
+**Code repository:** 
+	
+**Possible problems/fears/questions:** 
+
+Dirty, dirty data. Additionally, complex page layout meant that scraping was difficult and didn't include all the available data. Most glaringly, this dataset does not contain a time series which would be valuable. Hopefully, I can add this in the future. There are, as always, some concerns with self-reported data. We have to assume this data set only offers an incomplete picture of freelancers wages.
+
+## Work so far
+
+#####PUT SOME IMAGES HERE######## 
+
+Building the scraper and cleaning the data took a considerable amount of time. After analyzing the complexities of the website's layout, I settled on pulling a subset of information: publication, pay rate, a description of the published piece and details of the piece (light or heavy reporting, cold pitch or established relationship, etc). 
+
+The data extracted from the website has been cleaned, but could still go through the wash a few more times. The most basic information needed for analysis, the pay rate and publication name, are 
+
+## Checklist
+
+This checklist must be completed before you submit your draft.
+
+- [ ] I have already spent time with my data set, opening it, exploring it, etc
+- [ ] I have created a "DIARY.md" file to save links and list all of the terrible, no good problems I come across
+- [ ] My issue links to my data set(s)
+- [ ] My issue links to my code repository
+- [ ] My issue explains what I'd like to explore in the data set
+- [ ] My issue includes images - either inspiration or what I've done so far

@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+{% block content %}
+<h1>this will be a list of counties</h1>
+<ul>
+  {% for od in ods %}
+     <li>{{ od.county }}</a></li>
+  {% endfor %}
+</ul>
+{% endblock %}
+
+<!-- <li><a href="{{ url_for('school', dbn=school.dbn) }}">{{ school.school_name }}</a></li> -->

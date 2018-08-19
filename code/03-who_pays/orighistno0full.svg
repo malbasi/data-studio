@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 432" style="enable-background:new 0 0 792 432;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:none;stroke:#C9C9C9;stroke-width:3;stroke-linejoin:round;stroke-dasharray:1,1.65;}
+	.st1{clip-path:url(#SVGID_4_);fill:none;stroke:#C9C9C9;stroke-width:10;stroke-linejoin:round;stroke-dasharray:1,1.65;}
+	.st2{clip-path:url(#SVGID_6_);fill:none;stroke:#C9C9C9;stroke-width:10;stroke-linejoin:round;stroke-dasharray:1,1.65;}
+	.st3{fill:none;stroke:#C9C9C9;stroke-width:3;stroke-linejoin:round;stroke-dasharray:1,1.65;}
+	.st4{fill:#D7DA01;}
+	.st5{fill:#268BD2;}
+	.st6{fill:none;stroke:#EEE8D5;stroke-width:0.8;stroke-linecap:square;}
+	.st7{fill:none;}
+	.st8{font-family:'Futura-CondensedMedium';}
+	.st9{font-size:14px;}
+	.st10{fill:none;stroke:#D26C3D;stroke-width:3;stroke-miterlimit:10;}
+	.st11{fill:#D26C3D;}
+	.st12{font-family:'MinionPro-Regular';}
+	.st13{font-size:17px;}
+</style>
+<g id="Layer_2_1_">
+</g>
+<g id="Layer_1_1_">
+	<g id="Layer_2_2_">
+	</g>
+	<g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<defs>
+							<rect id="SVGID_1_" x="99" y="104.8" width="613.8" height="272.5"/>
+						</defs>
+						<clipPath id="SVGID_2_">
+							<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+						</clipPath>
+						<path class="st0" d="M99,346.9h613.8"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<defs>
+							<rect id="SVGID_3_" x="99" y="120.8" width="613.8" height="208.4"/>
+						</defs>
+						<clipPath id="SVGID_4_">
+							<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+						</clipPath>
+						<path class="st1" d="M712.8,189.5"/>
+					</g>
+				</g>
+			</g>
+			<g>
+				<g>
+					<g>
+						<defs>
+							<rect id="SVGID_5_" x="99" y="120.8" width="613.8" height="208.4"/>
+						</defs>
+						<clipPath id="SVGID_6_">
+							<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+						</clipPath>
+						<path class="st2" d="M99,189.5"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<path class="st3" d="M99,87h613.8"/>
+		<g>
+			<path class="st4" d="M126.9,384.5h93V67.7h-93C126.9,67.7,126.9,384.5,126.9,384.5z"/>
+		</g>
+		<g>
+			<path class="st5" d="M219.9,384.5h93v-42.7h-93V384.5z"/>
+		</g>
+		<g>
+			<path class="st5" d="M312.9,384.5h93v-21.1h-93V384.5z"/>
+		</g>
+		<g>
+			<path class="st5" d="M405.9,384.5h93v-4.2h-93V384.5z"/>
+		</g>
+		<g>
+			<path class="st5" d="M498.9,384.5h93V380h-93L498.9,384.5L498.9,384.5z"/>
+		</g>
+		<g>
+			<path class="st5" d="M591.9,384.5h93v-0.9h-93V384.5z"/>
+		</g>
+		<path class="st6" d="M712.8,384.5"/>
+		<path class="st6" d="M99,51.8"/>
+		<rect x="104.4" y="388.1" class="st7" width="44.4" height="26.4"/>
+		<text transform="matrix(1 0 0 1 113.5024 405.4644)" class="st8 st9">$0.01</text>
+		<text transform="matrix(1 0 0 1 113.4442 417.8481)" class="st8 st9">per word</text>
+		<rect x="75.3" y="340.3" class="st7" width="23.4" height="14.7"/>
+		<text transform="matrix(1 0 0 1 75.2954 351.9506)" class="st8 st9">250</text>
+		<rect x="71.5" y="79.4" class="st7" width="31" height="14.7"/>
+		<text transform="matrix(1 0 0 1 71.5061 91.0278)" class="st8 st9">2000</text>
+		<rect x="71.5" y="229.3" class="st7" width="31" height="14.7"/>
+		<rect x="303" y="394.8" class="st7" width="29.5" height="13"/>
+		<text transform="matrix(1 0 0 1 302.963 405.4644)" class="st8 st9">1.00</text>
+		<rect x="488.6" y="393.5" class="st7" width="28.8" height="15.6"/>
+		<text transform="matrix(1 0 0 1 488.5666 405.4644)" class="st8 st9">2.00</text>
+		<polygon class="st7" points="662.2,386 708.7,387 708.7,417.6 662.2,416.6 		"/>
+		<text transform="matrix(1 0 0 1 675.2502 405.4644)" class="st8 st9">3.00</text>
+	</g>
+	<g>
+		<g>
+			<path class="st10" d="M241.3,231.1c65.2,6.4,106.8-36,108.1-63.3"/>
+			<g>
+				<path class="st11" d="M223.4,228.3c7.9,4.4,17.6,11.4,23.2,18l-2.9-14.9l7.3-13.3C243.6,222.7,232.3,226.4,223.4,228.3z"/>
+			</g>
+		</g>
+	</g>
+	<rect x="308.6" y="91.1" class="st7" width="117.2" height="96.2"/>
+	<text transform="matrix(1 0 0 1 308.6223 103.2527)" class="st12 st13">More than </text>
+	<text transform="matrix(1 0 0 1 308.6223 123.6528)" class="st12 st13">85% of writers </text>
+	<text transform="matrix(1 0 0 1 308.6223 144.0527)" class="st12 st13">get paid $0.50 or </text>
+	<text transform="matrix(1 0 0 1 308.6223 164.4529)" class="st12 st13">less per word</text>
+</g>
+</svg>
